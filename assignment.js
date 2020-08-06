@@ -7,7 +7,7 @@
 // feet to mile conversion
 // feet to mile conversion
 
-function feetTomile(feet){
+function feetToMile(feet){
 
     const mile = feet/5280;
 
